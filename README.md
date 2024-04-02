@@ -1,2 +1,3 @@
 # Regression-and-return-based-on-PB-ratio
 Focusing on the observations for all A-share firms at the end of 2010, regress the P/B ratio at Dec. 2010 on Return on Equity - TTM (ROE) at 2010Q4 and Stock Volatility at 2010/12/31.
+For each month from Jan. 2010 to Dec. 2023, sort firms based on their last-month P/B ratios and divide firms into ten groups according to last-month P/B ratio deciles. By holding all stocks within each group with equal weights and rebalancing positions every month, we can construct ten portfolios. Then, calculate the monthly returns for the ten portfolios and use a bar chart to illustrate average returns for the ten portfolios from Jan. 2010 to Dec. 2023
